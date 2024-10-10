@@ -1,3 +1,4 @@
 Name=I sai vignesh
 Fathers name=I srinivas
 Reg no=12219232
+Specialisation = DEVOPS
